@@ -1,4 +1,4 @@
-👋 Hi everyone, I’m @AbrahamSGM, im currently student at Instituto Tenologico de Mexicali, I am passionate about electronics and microcontroller programming. I hope this is a learning experience for the people who visit my account and for me. If you have any questions or need help with any electronics project, don't hesitate to contact me. Best regards, and have a great week!.
+👋 Hi everyone, I’m @AbrahamSGM, im currently student at Instituto Tecnologico de Mexicali, I am passionate about electronics and microcontroller programming. I hope this is a learning experience for the people who visit my account and for me. If you have any questions or need help with any electronics project, don't hesitate to contact me. Best regards, and have a great week!.
 
 
 
