@@ -1,20 +1,34 @@
-<div align="justify">
-👋 Hi everyone, I’m @AbrahamSGM, im currently student at Instituto Tecnologico de Mexicali, I am passionate about electronics and microcontroller programming. I hope this is a learning experience for the people who visit my account and for me. If you have any questions or need help with any electronics project, don't hesitate to contact me. Best regards, and have a great week!.
+### Hi there! 👋 I'm Abraham Samuel (@AbrahamSGM)
+
+I'm a Mechatronics Engineer from **Instituto Tecnológico de Mexicali**, currently pursuing a Master's degree in Computer Systems at **Tecnológico Nacional de México campus Mexicali**. My work focuses on low-level firmware development, microcontroller programming, and exploring the integration of Artificial Intelligence in edge microcontrollers (TinyML).
 
 
-![Image_Alt](https://github.com/AbrahamSGM/AbrahamSGM/blob/aab333aef762d37a4c508d5f384641cca321b642/Imagen1.jpeg)
+---
 
+### 🛠️ Tech Stack & Tools
 
+* **Languages:** C, C++, Assembly, Python
+* **Microcontrollers & Hardware:** ESP32, ESP8266, Microchip PIC (PIC16/PIC18), Sensors & RTC modules
+* **AI & Edge Computing:** TinyML, On-device Machine Learning, Sensor Drift Compensation
+* **IoT & Cloud:** AWS IoT Core, MQTT, Data Pipelines
+* **Tools & IDEs:** ESP-IDF, MPLAB X IDE, Arduino IDE, VS Code, Git, KiCad
 
-<!--- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
-<!---
-AbrahamSGM/AbrahamSGM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-</div>
+---
+
+### 🚀 What I'm Focused On
+* Developing efficient bare-metal firmware and real-time task management.
+* Integrating machine learning models directly into microcontrollers for intelligent agricultural IoT architectures.
+* Researching sensor data collection, adaptation, and on-device data processing.
+
+---
+
+<p align="center">
+  <img src="URL_DE_TU_IMAGEN_ACTUAL" alt="Electronics Project" width="85%">
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbrahamSGM&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
