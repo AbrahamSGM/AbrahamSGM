@@ -23,7 +23,7 @@ I'm a Mechatronics Engineer from **Instituto Tecnológico de Mexicali**, current
 ---
 
 <p align="center">
-  <img src="[https://github.com/AbrahamSGM/AbrahamSGM/blob/main/Imagen1.jpeg?raw=true]" alt="Electronics Project" width="85%">
+  <img src="Imagen1.jpeg" alt="Electronics Project" width="85%">
 </p>
 
 ---
